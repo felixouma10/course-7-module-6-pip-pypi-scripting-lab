@@ -1,4 +1,4 @@
-# Automating Python Projects with Pip, PyPI & Scripting
+# course-7-module-6-pip-pypi-scripting-lab
 
 ## Overview
 
